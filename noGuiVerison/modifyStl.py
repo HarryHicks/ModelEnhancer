@@ -4,7 +4,7 @@ import time
 # C:\Program Files\Blender Foundation\Blender 3.6
 #  ./blender --background --python modifyStl.py
 # Set the directory path
-directory_path = "E:/scans/scripts/todo"
+directory_path = "/Users/harryhicks/Downloads/todo"
 
 # Get a list of all files in directory
 all_files = os.listdir(directory_path)
